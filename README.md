@@ -14,7 +14,7 @@ Re-usable Laravel Blade components for your projects
 You can install the package via composer:
 
 ```bash
-composer require dcblogdev/laravel-blade-components
+composer require coasterkolja/laravel-blade-components
 ```
 
 ## Usage 
